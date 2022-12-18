@@ -13,6 +13,7 @@
 
 .blogs__card__content {
     padding: 40px;
+    text-align: left;
 }
 
 .blogs__card h4 {
