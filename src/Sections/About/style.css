@@ -1,0 +1,24 @@
+.about-us{
+    display: flex;
+    justify-content: center;
+    margin-top: 144px;
+    margin-bottom: 93px;
+}
+.about-us div:first-child{
+    text-align: left;
+    width: 694px;
+}
+.about-us p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 155.3%;
+    letter-spacing: 0.13em;
+    text-transform: capitalize;
+    color: #FFFFFC;
+    width: 568px;
+    padding-bottom: 66px;
+}
+.about-us div img{
+    width: 378px;
+    height: 407px;
+}

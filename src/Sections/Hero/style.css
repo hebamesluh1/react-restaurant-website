@@ -1,0 +1,36 @@
+.hero{
+    background:linear-gradient(180deg, rgba(16, 20, 24, 0) 0%, #101418 100%),url(./Rectangle\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-header{
+    padding-top: 131px;
+}
+.hero .hero-content{
+    margin: auto;
+    text-align: center;
+    padding-top: 284px;
+    padding-bottom: 163px;
+}
+.hero h1{
+    width: 355px;
+    /* height: 106px; */ 
+    margin: auto;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    text-align: center;
+    color: #FFFCCC;
+}
+.hero p{
+    padding-top: 18px;
+    padding-bottom: 47px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117.3%;
+    text-align: center;
+    color: #FFFFFF;
+}

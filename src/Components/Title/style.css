@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Roboto:wght@300;500&display=swap');
+h2{
+font-family: 'Dancing Script';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 117.3%;
+/* text-align: center; */
+letter-spacing: 0.1em;
+color: #FFCE6D;
+}
+.title h3{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 117.3%;
+    text-transform: capitalize;
+    color: #FFFFFC;
+    padding-top: 13px;
+    padding-bottom: 56px;
+}

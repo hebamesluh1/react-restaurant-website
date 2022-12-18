@@ -1,0 +1,17 @@
+.special{
+    background: rgba(16, 20, 24, 0.7);
+}
+.special h3{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 117.3%;
+    text-transform: capitalize;
+    color: #FFFFFC;
+    padding-bottom: 70px;
+    padding-top: 17px;
+}
+.special .cards{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 90px;
+}

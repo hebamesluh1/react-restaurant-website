@@ -1,0 +1,5 @@
+.blogs{
+    display: flex;
+    gap: 20;
+    justify-content:space-around;
+}

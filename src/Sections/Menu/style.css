@@ -1,0 +1,111 @@
+.flex-menu{
+    display: flex;
+    justify-content: space-around;
+}
+.ad{
+    background: rgba(16, 20, 24, 0.7);
+    padding-bottom: 64px;
+}
+.ad h2{
+    width: 466px;
+    height: 70px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFC;
+    margin: 40px auto;
+}
+.ad p{
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFCE6D;
+    margin-bottom: 22px;
+}
+.ad .ad-sec{
+    display: flex;
+    justify-content:center;
+}
+.cooking-part{
+    display: flex;
+    justify-content: center;
+    margin-top: 144px;
+    margin-bottom: 93px;
+}
+.cooking-part div:first-child{
+    text-align: left;
+    width: 694px;
+}
+.cooking-part p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 155.3%;
+    letter-spacing: 0.13em;
+    text-transform: capitalize;
+    color: #FFFFFC;
+    width: 378px;
+    padding-bottom: 66px;
+}
+.cooking-part div img{
+    width: 441px;
+    height: 390px;
+}
+.parts{
+    background: rgba(16, 20, 24, 0.7);
+}
+.parts .p-1{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.reviews{
+    padding: 70px 0;
+    overflow: hidden;
+    position: relative;
+}
+.reviews-part {
+    overflow: hidden;
+}
+.reviews-part div{
+    display: flex;
+    width: 150vw;
+    transform: translateX(-25vw);
+    justify-content: space-between;
+    gap: 100px;
+}
+.avatar{
+    color: #fff;
+    width: 732px;
+    height: 385px;
+    background: rgba(16, 20, 24, 0.7);
+    margin:80px; 
+    overflow-x: hidden;
+    padding: 38px 58px;
+}
+.avatar .evaluate{
+    display: flex;
+    align-items: center;
+}
+.avatar .names{
+    display:inline-block;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 155.3%;
+    letter-spacing: 0.13em;
+    text-transform: capitalize;
+    color: #FFFFFC;
+    margin: 51px;
+
+}
+.avatar p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.13em;
+    text-transform: capitalize;
+    color: #FFFFFC;
+}

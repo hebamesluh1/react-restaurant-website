@@ -1,0 +1,24 @@
+.part{
+    display: flex;
+}
+.part img{
+    width: 85.66px;
+    height: 79.01px;
+}
+.part div{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 117.3%;
+    width: fit-content;
+    height: 79.01px;
+    padding: 0 20px;
+    text-align: center;
+    color: #FFCE6D;
+}
+.part span{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117.3%;
+    display: block;
+    color: #fff;
+}

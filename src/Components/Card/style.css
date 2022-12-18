@@ -1,0 +1,34 @@
+.card{
+    width: 384px;
+    height: 455px;
+    text-align: center;
+    background: rgba(160, 128, 64, 0.3);
+    border: 1px dashed #FFCE6D;
+}
+.card img{
+    width: 80px;
+    height: 80px;
+}
+.card h3{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 117.3%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFC;
+    padding: 17px;
+}
+.card p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 155.3%;
+    /* or 22px */
+    text-align: justify;
+    letter-spacing: 0.13em;
+    text-transform: capitalize;
+    color: #FFFFFC;
+}
+.card .box{
+    padding:60px 58px;
+}

@@ -1,0 +1,39 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background: #101418;
+    margin:  0px 266px;
+    align-items: center;
+    width: 988px;
+}
+header ul{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+header a{
+    text-decoration: none;
+    color: #FFFFCC;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+}
+.button button:first-child{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 272px;
+    height: 76px;
+    background: #A08040;
+    border: 7px solid #A08040;
+    outline: 2px solid #a08040;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 96.3%;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+}
+.button img{
+    margin: 0 10px;
+}
